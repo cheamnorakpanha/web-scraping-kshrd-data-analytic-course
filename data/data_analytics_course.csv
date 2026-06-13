@@ -1,0 +1,172 @@
+Section,Topic,Content
+Course,,Data Analytics
+Description,,"This course covers the fundamentals of data analytics, including statistics, data processing, and machine learning. You will learn how to work with Python, SQL, Excel, and Power BI for data analysis and visualization."
+Objective,,Understand basic and advanced statistics for data analysis.
+Objective,,"Learn data collection, web scraping, and data processing techniques."
+Objective,,Use Python and SQL for data manipulation and analysis.
+Objective,,Visualize data using Excel and Power BI.
+Objective,,Build predictive models and apply machine learning concepts.
+Curriculum,Basic Statistics,What is Statistics?
+Curriculum,Basic Statistics,Type of statistics.
+Curriculum,Basic Statistics,Difference between Population and Sample
+Curriculum,Basic Statistics,What is Descriptive Statistics?
+Curriculum,Basic Statistics,"What is the Measure of Central Tendency? (Mean, Median, Mode)"
+Curriculum,Basic Statistics,"What is Measure of Variability? (Range, IQR, Variance, Standard Deviation)"
+Curriculum,Basic Statistics,What is Normal Distribution?
+Curriculum,Advanced Statistics,What is Inferential Statistics?
+Curriculum,Advanced Statistics,"What is Hypothesis Testing? (Level of Significant, Confidence Interval, Test Statistic)"
+Curriculum,Advanced Statistics,What is ANOVA?
+Curriculum,Advanced Statistics,What is Regression?
+Curriculum,Advanced Statistics,What is Correlation?
+Curriculum,Advanced Statistics,Type of Correlation.
+Curriculum,Introduction to Data Analytics,What is Data Analytics?
+Curriculum,Introduction to Data Analytics,Data Analysis Steps?
+Curriculum,Introduction to Data Analytics,Type of Data Analytics
+Curriculum,Introduction to Data Analytics,Data Analytics Use Cases
+Curriculum,Introduction to Data Analytics,Lifecycle of Data Analytics
+Curriculum,Introduction to Data Analytics,Benefits of Data Analytics
+Curriculum,Introduction to Data Analytics,Data Analytics Techniques
+Curriculum,Introduction to Data Analytics,Data Analytics Tools
+Curriculum,Introduction to Data Analytics,How to Become a Data Analyst?
+Curriculum,Introduction to Data Analytics,Skills needed to become a Data Analyst
+Curriculum,Introduction to Data Analytics,Data Analyst and Data Scientist
+Curriculum,Python I: Fundamental,Installation Python
+Curriculum,Python I: Fundamental,Tool to use (Jupyter)
+Curriculum,Python I: Fundamental,Array
+Curriculum,Python I: Fundamental,Matrix Operation
+Curriculum,Python I: Fundamental,Dictionaries
+Curriculum,Data Collection & Web Scraping,Introduction to data collection
+Curriculum,Data Collection & Web Scraping,Introduction to Web Scraping & Web Crawling
+Curriculum,Data Collection & Web Scraping,HTML parsing with BeautifulSoup
+Curriculum,Data Collection & Web Scraping,Scrapy Fundamental
+Curriculum,Data Collection & Web Scraping,XPath with Scrapy
+Curriculum,Data Collection & Web Scraping,Scrapy with Selenium
+Curriculum,Data Collection & Web Scraping,Scrapy with Splash
+Curriculum,SQL for Analytics,Introduction to SQL
+Curriculum,SQL for Analytics,Database Normalization and Entity Relationship Model
+Curriculum,SQL for Analytics,SQL Operators
+Curriculum,SQL for Analytics,"Working with SQL: Join, Tables, and Variables"
+Curriculum,SQL for Analytics,"Working with Subqueries​ (​Nested subqueries, Correlated subqueries, Common Table Expressions)"
+Curriculum,SQL for Analytics,"SQL Views, Stored Procedures, Triggers"
+Curriculum,SQL for Analytics,Deep Dive into SQL Functions
+Curriculum,SQL for Analytics,Deep Dive into User-defined Functions
+Curriculum,Excel for Data Analytics,Why using Excel?
+Curriculum,Excel for Data Analytics,Formula and Function
+Curriculum,Excel for Data Analytics ('Data Preparation'),"Load Data into Excel (File (txt,csv), Database)"
+Curriculum,Excel for Data Analytics ('Data Preparation'),What is power query?
+Curriculum,Excel for Data Analytics ('Data Preparation'),Why need power query?
+Curriculum,Excel for Data Analytics ('Data Preparation'),How to use power query to clean and transform data?
+Curriculum,Excel for Data Analytics ('Data Preparation'),Data Validation
+Curriculum,Excel for Data Analytics ('Data Preparation'),Sort and Filtering
+Curriculum,Excel for Data Analytics ('Data Preparation'),Conditional Formatting
+Curriculum,Excel for Data Analytics ('Data Preparation'),All Kind of Count in Excel
+Curriculum,Excel for Data Analytics ('Data Extraction'),Split text
+Curriculum,Excel for Data Analytics ('Data Extraction'),Auto fill
+Curriculum,Excel for Data Analytics ('Data Extraction'),Transpose
+Curriculum,Excel for Data Analytics ('Data Extraction'),Concatenate
+Curriculum,Excel for Data Analytics ('Data Extraction'),Trim
+Curriculum,Excel for Data Analytics ('Data Extraction'),Change Data Type (Convert Data)
+Curriculum,Data Analysis with Excel,What if Analysis in Excel?
+Curriculum,Data Analysis with Excel,Goal Seek
+Curriculum,Data Analysis with Excel,Scenario Manager
+Curriculum,Data Analysis with Excel,Data Table
+Curriculum,Data Analysis with Excel,Solver
+Curriculum,Data Analysis with Excel,Histogram
+Curriculum,Data Analysis with Excel,Correlation
+Curriculum,Data Analysis with Excel,Rank and Percentile
+Curriculum,Data Analysis with Excel,Descriptive Statistics (Regression in Excel)
+Curriculum,Data Analysis with Excel,Forecast Sheet
+Curriculum,Data Visualization with Excel,"Pivot Table, Chart, Slicer"
+Curriculum,Data Visualization with Excel,Create and Modify Pivot Tables
+Curriculum,Data Visualization with Excel,Use Pivot Tables to solve a variety of Business Problems
+Curriculum,Data Visualization with Excel,Create an Interactive Dashboard with Pivot Charts and Slicers
+Curriculum,Data Visualization with Excel,Bring data to life using conditional formatting & custom number formatting
+Curriculum,Data Visualization with Excel,Mastering charts in Excel
+Curriculum,Data Visualization with Excel,Complete the dashboard with creative visualizations and dynamic charts (Interaction Dashboard)
+Curriculum,Data Warehouse (Ready Data to Analyze),Data Warehouse Overview
+Curriculum,Data Warehouse (Ready Data to Analyze),Type of Data Warehouse
+Curriculum,Data Warehouse (Ready Data to Analyze),Data Warehouse architecture
+Curriculum,Data Warehouse (Ready Data to Analyze),Data Warehouse Characteristics
+Curriculum,Data Warehouse (Ready Data to Analyze),Data Warehouse vs Database
+Curriculum,Data Warehouse (Ready Data to Analyze),ETL and ELT
+Curriculum,Power BI,Introduction to Power BI
+Curriculum,Power BI,Understanding Power BI
+Curriculum,Power BI,Power BI Desktop and the Power BI service
+Curriculum,Power BI,Creating a Power BI account
+Curriculum,Data Preparation and Modeling With Power BI,Creating reports and dashboards
+Curriculum,Data Preparation and Modeling With Power BI,"Advanced features (Drillthrough, Slicers, Filters, etc.)"
+Curriculum,Data Preparation and Modeling With Power BI,Sharing and publishing reports
+Curriculum,Data Preparation and Modeling With Power BI,RLS (Role Level Security) in Power BI
+Curriculum,Data Visualization With Power BI,Creating reports and dashboards
+Curriculum,Data Visualization With Power BI,"Using visualizations such as charts, tables, and maps"
+Curriculum,Data Visualization With Power BI,Creating custom visuals and using marketplace visuals
+Curriculum,Data Visualization With Power BI,Designing and formatting reports
+Curriculum,Advanced Features of Power BI,Creating and managing data hierarchies
+Curriculum,Advanced Features of Power BI,Using drillthrough and drilldown features
+Curriculum,Advanced Features of Power BI,"Creating dynamic reports with slicers, filters, and bookmarks"
+Curriculum,Advanced Features of Power BI,Using Power BI mobile app
+Curriculum,Advanced Features of Power BI,Sharing and publishing reports to Power BI service and dashboards
+Curriculum,Advanced Features of Power BI,Workspace in Power BI
+Curriculum,Advanced Features of Power BI,Role User in Power BI workspace
+Curriculum,Advanced Features of Power BI,RLS (Role Level Security) in Power BI and why do we need it?
+Curriculum,Advanced Features of Power BI,Sharing and collaboration (Workspace)
+Curriculum,Advanced Features of Power BI,Using the Power BI service to collaborate with others
+Curriculum,Advanced Features of Power BI,Setting up security and permissions for reports and data
+Curriculum,Python II: Working With Libraries,Dataframe of Pandas with Python
+Curriculum,Python II: Working With Libraries,Series of Pandas with Python
+Curriculum,Python II: Working With Libraries,Access Data from Dataframe of Pandas
+Curriculum,Python II: Working With Libraries,Data Processing with Pandas (Load Data into Pandas and Clean)
+Curriculum,Python II: Working With Libraries,Dynamic Array of Numpy with Python
+Curriculum,Python II: Working With Libraries,"Create Chart, Plots Using matplotlib with Python"
+Curriculum,Exploratory Data Analysis,What is Exploratory Data Analysis (EDA)?
+Curriculum,Exploratory Data Analysis,Why is it important?
+Curriculum,Exploratory Data Analysis,Type of EDA
+Curriculum,Exploratory Data Analysis,What is cross validation?
+Curriculum,Feature Engineering (Data Processing),Feature Selection
+Curriculum,Feature Engineering (Data Processing),Handling missing values
+Curriculum,Feature Engineering (Data Processing),Handling imbalanced data
+Curriculum,Feature Engineering (Data Processing),Handling outliers
+Curriculum,Feature Engineering (Data Processing),Binning
+Curriculum,Feature Engineering (Data Processing),Encoding
+Curriculum,Feature Engineering (Data Processing),Feature Scaling
+Curriculum,Predictive Modeling,Machine learning Algorithms
+Curriculum,Predictive Modeling,Type of machine learning
+Curriculum,Predictive Modeling,Regression models
+Curriculum,Predictive Modeling,Decision Tree
+Curriculum,Time Series Forecasting,Introduction to time-series
+Curriculum,Time Series Forecasting,Correlation Forecasting
+Curriculum,Time Series Forecasting,Autoregressive models
+Curriculum,Data Processing with PySpark,Introduction to time-series
+Curriculum,Data Processing with PySpark,Correlation Forecasting
+Curriculum,Data Processing with PySpark,Installing PySpark
+Curriculum,Data Processing with PySpark,Spark Structure API DataFrame
+Curriculum,Data Processing with PySpark,RDD
+Curriculum,Data Processing with PySpark,Spark Architecture and Components
+Curriculum,Data Processing with PySpark,Tuple
+Curriculum,Data Processing with PySpark,Pair RDD
+Curriculum,Data Processing with PySpark,FlatMaps and Filters
+Curriculum,Data Processing with PySpark,Sorts and Coalesce
+Curriculum,Data Processing with PySpark,Joins
+Curriculum,Data Processing with PySpark,Spark SQL
+Curriculum,Data Processing with PySpark,Datasets
+Curriculum,Data Processing with PySpark,DataFrames API
+Curriculum,Data Processing with PySpark,Pivot Tables
+Curriculum,Data Processing with PySpark,User Defined Function
+Curriculum,Data Processing with PySpark,HashAggregation
+Curriculum,Data Processing with PySpark,SparkML for Machine Learning
+Curriculum,Data Processing with PySpark,Linear Regression Model
+Curriculum,Data Processing with PySpark,Training Data
+Curriculum,Data Processing with PySpark,Model Fitting Parameters
+Curriculum,Data Processing with PySpark,Feature Selection
+Curriculum,Data Processing with PySpark,Non-Numeric Data
+Curriculum,Data Processing with PySpark,Pipelines
+Curriculum,Data Processing with PySpark,K Means Clustering
+Curriculum,Data Processing with PySpark,Spark Streaming and Structured Streaming with Kafka
+Curriculum,"Business Problem Solving, Insights and Storytelling",Business domains
+Curriculum,"Business Problem Solving, Insights and Storytelling",Understanding the business problem and formulating hypotheses
+Curriculum,"Business Problem Solving, Insights and Storytelling",Exploratory data analysis
+Curriculum,"Business Problem Solving, Insights and Storytelling",Data storytelling
+Curriculum,"Business Problem Solving, Insights and Storytelling",Project on deriving business insights and storytelling
+Curriculum,Business Case Studies,Real world Business Analytics
+Curriculum,Business Case Studies,Focus on Real world problem
+Curriculum,Business Case Studies,Business Required
