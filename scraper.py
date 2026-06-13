@@ -1,6 +1,11 @@
 import requests
 
-# API endpoint for the Data Analytics
+from save_data import (
+    save_json,
+    save_csv
+)
+
+# API endpoint for the Data Analytics course
 url = "https://kshrd-web-api.kshrd.app/curricula/course/d327c8c5-2d8f-4cc1-af70-2cc4a4284ee7"
 
 response = requests.get(url)
@@ -9,12 +14,16 @@ response.raise_for_status()
 
 data = response.json()
 
+# Save files
+save_json(data)
+save_csv(data)
+
 # Display course information
 print("=== COURSE ===")
 print("Course:", data["course_name"])
 print("Description:", data["course_description"])
 
-# Display course objective
+# Display course objectives
 print("\n=== OBJECTIVES ===")
 for objective in data["objectives"]:
     print("-", objective["objective"])
