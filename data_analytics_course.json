@@ -1,0 +1,1218 @@
+{
+    "course_id": "d327c8c5-2d8f-4cc1-af70-2cc4a4284ee7",
+    "course_name": "Data Analytics",
+    "course_description": "This course covers the fundamentals of data analytics, including statistics, data processing, and machine learning. You will learn how to work with Python, SQL, Excel, and Power BI for data analysis and visualization.",
+    "curriculum_id": "7381b0d5-6931-4504-86c8-d129a9d9b657",
+    "created_at": "2025-12-24T04:13:35.529682",
+    "updated_at": "2025-12-24T04:13:35.529682",
+    "objectives": [
+        {
+            "objective": "Understand basic and advanced statistics for data analysis.",
+            "order_index": 1,
+            "objective_id": "fa9b94f8-0056-40bf-ac6e-1f7bddc9034b",
+            "curriculum_id": "7381b0d5-6931-4504-86c8-d129a9d9b657"
+        },
+        {
+            "objective": "Learn data collection, web scraping, and data processing techniques.",
+            "order_index": 2,
+            "objective_id": "c7857d53-aa1d-431f-8939-d451cad22b63",
+            "curriculum_id": "7381b0d5-6931-4504-86c8-d129a9d9b657"
+        },
+        {
+            "objective": "Use Python and SQL for data manipulation and analysis.",
+            "order_index": 3,
+            "objective_id": "e8c9e946-42fd-4fb4-9dd4-07b9880c0efb",
+            "curriculum_id": "7381b0d5-6931-4504-86c8-d129a9d9b657"
+        },
+        {
+            "objective": "Visualize data using Excel and Power BI.",
+            "order_index": 4,
+            "objective_id": "8b9fdc79-c19b-4c48-a56f-84644739da57",
+            "curriculum_id": "7381b0d5-6931-4504-86c8-d129a9d9b657"
+        },
+        {
+            "objective": "Build predictive models and apply machine learning concepts.",
+            "order_index": 5,
+            "objective_id": "fe938ed6-5cb1-4340-89ae-fca0d070b22d",
+            "curriculum_id": "7381b0d5-6931-4504-86c8-d129a9d9b657"
+        }
+    ],
+    "topics": [
+        {
+            "topic_name": "Basic Statistics",
+            "order_index": 1,
+            "topic_id": "4b8fb733-73bd-4332-87d8-d0d95725e7c7",
+            "curriculum_id": "7381b0d5-6931-4504-86c8-d129a9d9b657",
+            "items": [
+                {
+                    "item_content": "What is Statistics?",
+                    "order_index": 1,
+                    "item_id": "74244a50-586f-45d7-9541-b20142e35951",
+                    "topic_id": "4b8fb733-73bd-4332-87d8-d0d95725e7c7"
+                },
+                {
+                    "item_content": "Type of statistics.",
+                    "order_index": 2,
+                    "item_id": "0907855d-9e77-4941-a55b-243dd9fd4112",
+                    "topic_id": "4b8fb733-73bd-4332-87d8-d0d95725e7c7"
+                },
+                {
+                    "item_content": "Difference between Population and Sample",
+                    "order_index": 3,
+                    "item_id": "ba7856ea-ca81-403e-bf3f-c401bed862dc",
+                    "topic_id": "4b8fb733-73bd-4332-87d8-d0d95725e7c7"
+                },
+                {
+                    "item_content": "What is Descriptive Statistics?",
+                    "order_index": 4,
+                    "item_id": "e14ff832-a243-4d73-b3f5-85b57a7dd6ff",
+                    "topic_id": "4b8fb733-73bd-4332-87d8-d0d95725e7c7"
+                },
+                {
+                    "item_content": "What is the Measure of Central Tendency? (Mean, Median, Mode)",
+                    "order_index": 5,
+                    "item_id": "a0b0b453-bc50-42cc-bddb-001ddb900e54",
+                    "topic_id": "4b8fb733-73bd-4332-87d8-d0d95725e7c7"
+                },
+                {
+                    "item_content": "What is Measure of Variability? (Range, IQR, Variance, Standard Deviation)",
+                    "order_index": 6,
+                    "item_id": "99bb9dc7-9c6a-4ea9-a199-28ab7087bde5",
+                    "topic_id": "4b8fb733-73bd-4332-87d8-d0d95725e7c7"
+                },
+                {
+                    "item_content": "What is Normal Distribution?",
+                    "order_index": 7,
+                    "item_id": "c9155487-ccb5-40cd-8889-8ab6bb86b295",
+                    "topic_id": "4b8fb733-73bd-4332-87d8-d0d95725e7c7"
+                }
+            ]
+        },
+        {
+            "topic_name": "Advanced Statistics",
+            "order_index": 2,
+            "topic_id": "0d558243-4b55-41ff-9493-6dd572817484",
+            "curriculum_id": "7381b0d5-6931-4504-86c8-d129a9d9b657",
+            "items": [
+                {
+                    "item_content": "What is Inferential Statistics?",
+                    "order_index": 1,
+                    "item_id": "7d48821d-d431-47ec-8773-c62276252400",
+                    "topic_id": "0d558243-4b55-41ff-9493-6dd572817484"
+                },
+                {
+                    "item_content": "What is Hypothesis Testing? (Level of Significant, Confidence Interval, Test Statistic)",
+                    "order_index": 2,
+                    "item_id": "a3c0ebef-b53d-4c71-a091-1a0d5ab6abde",
+                    "topic_id": "0d558243-4b55-41ff-9493-6dd572817484"
+                },
+                {
+                    "item_content": "What is ANOVA?",
+                    "order_index": 3,
+                    "item_id": "3d044bd9-c96c-4d4f-b96a-78ad47c045ed",
+                    "topic_id": "0d558243-4b55-41ff-9493-6dd572817484"
+                },
+                {
+                    "item_content": "What is Regression?",
+                    "order_index": 4,
+                    "item_id": "4a9d81d4-903d-4e31-bdad-ef6d7739f645",
+                    "topic_id": "0d558243-4b55-41ff-9493-6dd572817484"
+                },
+                {
+                    "item_content": "What is Correlation?",
+                    "order_index": 5,
+                    "item_id": "85158ad2-a09b-486d-b49d-b642322016dd",
+                    "topic_id": "0d558243-4b55-41ff-9493-6dd572817484"
+                },
+                {
+                    "item_content": "Type of Correlation.",
+                    "order_index": 6,
+                    "item_id": "50b9523f-96a2-4ce2-855d-48d54ad437b7",
+                    "topic_id": "0d558243-4b55-41ff-9493-6dd572817484"
+                }
+            ]
+        },
+        {
+            "topic_name": "Introduction to Data Analytics",
+            "order_index": 3,
+            "topic_id": "c8c8d192-999d-451e-b9bb-af17198cf251",
+            "curriculum_id": "7381b0d5-6931-4504-86c8-d129a9d9b657",
+            "items": [
+                {
+                    "item_content": "What is Data Analytics?",
+                    "order_index": 1,
+                    "item_id": "f0109eb2-4326-4326-9bd1-8b5419fffc21",
+                    "topic_id": "c8c8d192-999d-451e-b9bb-af17198cf251"
+                },
+                {
+                    "item_content": "Data Analysis Steps?",
+                    "order_index": 2,
+                    "item_id": "ac2b244f-405c-4241-b9b0-6e37a99f2ffd",
+                    "topic_id": "c8c8d192-999d-451e-b9bb-af17198cf251"
+                },
+                {
+                    "item_content": "Type of Data Analytics",
+                    "order_index": 3,
+                    "item_id": "477ae189-343f-4bd5-af8f-c10b9776edb9",
+                    "topic_id": "c8c8d192-999d-451e-b9bb-af17198cf251"
+                },
+                {
+                    "item_content": "Data Analytics Use Cases",
+                    "order_index": 4,
+                    "item_id": "cfad8592-f939-4844-9a5a-a9df7c8365c1",
+                    "topic_id": "c8c8d192-999d-451e-b9bb-af17198cf251"
+                },
+                {
+                    "item_content": "Lifecycle of Data Analytics",
+                    "order_index": 5,
+                    "item_id": "f83fdbe0-dc4e-4138-ac05-49e5a8ff94a7",
+                    "topic_id": "c8c8d192-999d-451e-b9bb-af17198cf251"
+                },
+                {
+                    "item_content": "Benefits of Data Analytics",
+                    "order_index": 6,
+                    "item_id": "dd2526a7-43af-4c08-85b6-4f6d47d54b82",
+                    "topic_id": "c8c8d192-999d-451e-b9bb-af17198cf251"
+                },
+                {
+                    "item_content": "Data Analytics Techniques",
+                    "order_index": 7,
+                    "item_id": "c5dd4acc-f517-482d-bfa3-9cb1f32733fb",
+                    "topic_id": "c8c8d192-999d-451e-b9bb-af17198cf251"
+                },
+                {
+                    "item_content": "Data Analytics Tools",
+                    "order_index": 8,
+                    "item_id": "7f0373ba-44db-4948-bd53-33d72f85c2d4",
+                    "topic_id": "c8c8d192-999d-451e-b9bb-af17198cf251"
+                },
+                {
+                    "item_content": "How to Become a Data Analyst?",
+                    "order_index": 9,
+                    "item_id": "7940c9b0-43fa-467d-bf31-274c1f89fda9",
+                    "topic_id": "c8c8d192-999d-451e-b9bb-af17198cf251"
+                },
+                {
+                    "item_content": "Skills needed to become a Data Analyst",
+                    "order_index": 10,
+                    "item_id": "bf13bd1d-c869-4dc4-ba72-4d618584c062",
+                    "topic_id": "c8c8d192-999d-451e-b9bb-af17198cf251"
+                },
+                {
+                    "item_content": "Data Analyst and Data Scientist",
+                    "order_index": 11,
+                    "item_id": "ab739b2b-d994-4f0a-a825-ebe1c56e524b",
+                    "topic_id": "c8c8d192-999d-451e-b9bb-af17198cf251"
+                }
+            ]
+        },
+        {
+            "topic_name": "Python I: Fundamental",
+            "order_index": 4,
+            "topic_id": "b90d78d7-c2dc-4715-930b-c14e09e50819",
+            "curriculum_id": "7381b0d5-6931-4504-86c8-d129a9d9b657",
+            "items": [
+                {
+                    "item_content": "Installation Python",
+                    "order_index": 1,
+                    "item_id": "a0a1f4e6-0bf1-442c-b62a-a0c68d711b5e",
+                    "topic_id": "b90d78d7-c2dc-4715-930b-c14e09e50819"
+                },
+                {
+                    "item_content": "Tool to use (Jupyter)",
+                    "order_index": 2,
+                    "item_id": "7b682615-b342-471b-960b-ec8bbc0ddf4d",
+                    "topic_id": "b90d78d7-c2dc-4715-930b-c14e09e50819"
+                },
+                {
+                    "item_content": "Array",
+                    "order_index": 3,
+                    "item_id": "481fbf5c-0405-4ef5-810f-9fd15159a570",
+                    "topic_id": "b90d78d7-c2dc-4715-930b-c14e09e50819"
+                },
+                {
+                    "item_content": "Matrix Operation",
+                    "order_index": 4,
+                    "item_id": "55eed449-1b5a-498e-8a57-c28b06e00d8d",
+                    "topic_id": "b90d78d7-c2dc-4715-930b-c14e09e50819"
+                },
+                {
+                    "item_content": "Dictionaries",
+                    "order_index": 5,
+                    "item_id": "76fbf381-3abb-4ca5-ba94-f8508eb371b1",
+                    "topic_id": "b90d78d7-c2dc-4715-930b-c14e09e50819"
+                }
+            ]
+        },
+        {
+            "topic_name": "Data Collection & Web Scraping",
+            "order_index": 5,
+            "topic_id": "1f31ac5a-a4fc-4e55-bde1-2327140d2585",
+            "curriculum_id": "7381b0d5-6931-4504-86c8-d129a9d9b657",
+            "items": [
+                {
+                    "item_content": "Introduction to data collection",
+                    "order_index": 1,
+                    "item_id": "e07b3c17-01bb-4b7e-a730-21eaa5fc3c3c",
+                    "topic_id": "1f31ac5a-a4fc-4e55-bde1-2327140d2585"
+                },
+                {
+                    "item_content": "Introduction to Web Scraping & Web Crawling",
+                    "order_index": 2,
+                    "item_id": "dc661c70-9762-4a7c-823a-5a471efa3720",
+                    "topic_id": "1f31ac5a-a4fc-4e55-bde1-2327140d2585"
+                },
+                {
+                    "item_content": "HTML parsing with BeautifulSoup",
+                    "order_index": 3,
+                    "item_id": "45d00f4b-2cf9-4f82-a614-eb88f7062643",
+                    "topic_id": "1f31ac5a-a4fc-4e55-bde1-2327140d2585"
+                },
+                {
+                    "item_content": "Scrapy Fundamental",
+                    "order_index": 4,
+                    "item_id": "21435451-d7fe-4cc4-93c4-e18c54b6f707",
+                    "topic_id": "1f31ac5a-a4fc-4e55-bde1-2327140d2585"
+                },
+                {
+                    "item_content": "XPath with Scrapy",
+                    "order_index": 5,
+                    "item_id": "59b7c0c1-af1b-468e-baa9-40c34b8e1961",
+                    "topic_id": "1f31ac5a-a4fc-4e55-bde1-2327140d2585"
+                },
+                {
+                    "item_content": "Scrapy with Selenium",
+                    "order_index": 6,
+                    "item_id": "a738702f-52d6-4071-96db-6fb4fed709e6",
+                    "topic_id": "1f31ac5a-a4fc-4e55-bde1-2327140d2585"
+                },
+                {
+                    "item_content": "Scrapy with Splash",
+                    "order_index": 7,
+                    "item_id": "a0355d18-b5b9-4f32-97b8-5beb927bbc90",
+                    "topic_id": "1f31ac5a-a4fc-4e55-bde1-2327140d2585"
+                }
+            ]
+        },
+        {
+            "topic_name": "SQL for Analytics",
+            "order_index": 6,
+            "topic_id": "84a7d759-2e02-44d0-adb7-2fa214cf7d4e",
+            "curriculum_id": "7381b0d5-6931-4504-86c8-d129a9d9b657",
+            "items": [
+                {
+                    "item_content": "Introduction to SQL",
+                    "order_index": 1,
+                    "item_id": "d6ac630f-590d-4280-aa7c-52f9daf05d4d",
+                    "topic_id": "84a7d759-2e02-44d0-adb7-2fa214cf7d4e"
+                },
+                {
+                    "item_content": "Database Normalization and Entity Relationship Model",
+                    "order_index": 2,
+                    "item_id": "a55879e5-95de-4963-8552-93fb9b321d92",
+                    "topic_id": "84a7d759-2e02-44d0-adb7-2fa214cf7d4e"
+                },
+                {
+                    "item_content": "SQL Operators",
+                    "order_index": 3,
+                    "item_id": "d77f61e4-40e8-4e46-a79d-9580ae8bf0d0",
+                    "topic_id": "84a7d759-2e02-44d0-adb7-2fa214cf7d4e"
+                },
+                {
+                    "item_content": "Working with SQL: Join, Tables, and Variables",
+                    "order_index": 4,
+                    "item_id": "7283bfbe-55c3-4ef9-b230-4f3e7bb1561a",
+                    "topic_id": "84a7d759-2e02-44d0-adb7-2fa214cf7d4e"
+                },
+                {
+                    "item_content": "Working with Subqueries​ (​Nested subqueries, Correlated subqueries, Common Table Expressions)",
+                    "order_index": 5,
+                    "item_id": "176a7a61-40af-418c-a152-f378c38bccb7",
+                    "topic_id": "84a7d759-2e02-44d0-adb7-2fa214cf7d4e"
+                },
+                {
+                    "item_content": "SQL Views, Stored Procedures, Triggers",
+                    "order_index": 6,
+                    "item_id": "511aeb2d-19e7-4560-8f97-7676a3badbcf",
+                    "topic_id": "84a7d759-2e02-44d0-adb7-2fa214cf7d4e"
+                },
+                {
+                    "item_content": "Deep Dive into SQL Functions",
+                    "order_index": 7,
+                    "item_id": "64365c7b-c56b-445a-835c-d23255b10a61",
+                    "topic_id": "84a7d759-2e02-44d0-adb7-2fa214cf7d4e"
+                },
+                {
+                    "item_content": "Deep Dive into User-defined Functions",
+                    "order_index": 8,
+                    "item_id": "93bbc5b5-273d-41ae-800f-24d0ed3ef912",
+                    "topic_id": "84a7d759-2e02-44d0-adb7-2fa214cf7d4e"
+                }
+            ]
+        },
+        {
+            "topic_name": "Excel for Data Analytics",
+            "order_index": 7,
+            "topic_id": "38ee8492-295a-4ebe-ab88-f9f2a434b91e",
+            "curriculum_id": "7381b0d5-6931-4504-86c8-d129a9d9b657",
+            "items": [
+                {
+                    "item_content": "Why using Excel?",
+                    "order_index": 1,
+                    "item_id": "e41878a0-bab4-4d2d-ade2-6a88a702d7e6",
+                    "topic_id": "38ee8492-295a-4ebe-ab88-f9f2a434b91e"
+                },
+                {
+                    "item_content": "Formula and Function",
+                    "order_index": 2,
+                    "item_id": "718b8364-8bc8-4abe-a864-9dfa77a255a0",
+                    "topic_id": "38ee8492-295a-4ebe-ab88-f9f2a434b91e"
+                }
+            ]
+        },
+        {
+            "topic_name": "Excel for Data Analytics ('Data Preparation')",
+            "order_index": 8,
+            "topic_id": "68b32f2b-66ea-44b3-94cd-3e8ea22fdd56",
+            "curriculum_id": "7381b0d5-6931-4504-86c8-d129a9d9b657",
+            "items": [
+                {
+                    "item_content": "Load Data into Excel (File (txt,csv), Database)",
+                    "order_index": 1,
+                    "item_id": "038431ef-554b-48a6-a314-7050807178c2",
+                    "topic_id": "68b32f2b-66ea-44b3-94cd-3e8ea22fdd56"
+                },
+                {
+                    "item_content": "What is power query?",
+                    "order_index": 2,
+                    "item_id": "2753796e-92ac-42c0-b5a2-f33273431bea",
+                    "topic_id": "68b32f2b-66ea-44b3-94cd-3e8ea22fdd56"
+                },
+                {
+                    "item_content": "Why need power query?",
+                    "order_index": 3,
+                    "item_id": "06164469-5728-495e-a40e-09d9e094c970",
+                    "topic_id": "68b32f2b-66ea-44b3-94cd-3e8ea22fdd56"
+                },
+                {
+                    "item_content": "How to use power query to clean and transform data?",
+                    "order_index": 4,
+                    "item_id": "afb5cd9e-7262-42ea-ab5f-0b4c3fa9aec2",
+                    "topic_id": "68b32f2b-66ea-44b3-94cd-3e8ea22fdd56"
+                },
+                {
+                    "item_content": "Data Validation",
+                    "order_index": 5,
+                    "item_id": "6c80831c-56a1-4b5e-91d5-0f5910fbd62e",
+                    "topic_id": "68b32f2b-66ea-44b3-94cd-3e8ea22fdd56"
+                },
+                {
+                    "item_content": "Sort and Filtering",
+                    "order_index": 6,
+                    "item_id": "f699f0a7-2140-45e5-938e-eec8c9ba0768",
+                    "topic_id": "68b32f2b-66ea-44b3-94cd-3e8ea22fdd56"
+                },
+                {
+                    "item_content": "Conditional Formatting",
+                    "order_index": 7,
+                    "item_id": "4225cfd3-0ce0-4fca-8cd4-7f1d5cdc5a46",
+                    "topic_id": "68b32f2b-66ea-44b3-94cd-3e8ea22fdd56"
+                },
+                {
+                    "item_content": "All Kind of Count in Excel",
+                    "order_index": 8,
+                    "item_id": "7985b142-54cd-46fd-99da-fc4ac1c6ec8c",
+                    "topic_id": "68b32f2b-66ea-44b3-94cd-3e8ea22fdd56"
+                }
+            ]
+        },
+        {
+            "topic_name": "Excel for Data Analytics ('Data Extraction')",
+            "order_index": 9,
+            "topic_id": "e8e26f9d-f420-4aaf-ae8a-2cb327780be8",
+            "curriculum_id": "7381b0d5-6931-4504-86c8-d129a9d9b657",
+            "items": [
+                {
+                    "item_content": "Split text",
+                    "order_index": 1,
+                    "item_id": "007a6ff4-ec3b-4a6b-be81-45401235e746",
+                    "topic_id": "e8e26f9d-f420-4aaf-ae8a-2cb327780be8"
+                },
+                {
+                    "item_content": "Auto fill",
+                    "order_index": 2,
+                    "item_id": "e7c2dea4-e5dc-45d1-a5f4-0fd9776a5274",
+                    "topic_id": "e8e26f9d-f420-4aaf-ae8a-2cb327780be8"
+                },
+                {
+                    "item_content": "Transpose",
+                    "order_index": 3,
+                    "item_id": "e53e5899-79b1-4629-b865-48725a08e393",
+                    "topic_id": "e8e26f9d-f420-4aaf-ae8a-2cb327780be8"
+                },
+                {
+                    "item_content": "Concatenate",
+                    "order_index": 4,
+                    "item_id": "b669dced-48cc-486c-805b-58b9dd0422c1",
+                    "topic_id": "e8e26f9d-f420-4aaf-ae8a-2cb327780be8"
+                },
+                {
+                    "item_content": "Trim",
+                    "order_index": 5,
+                    "item_id": "5929555d-784e-455b-8d75-2442f9875358",
+                    "topic_id": "e8e26f9d-f420-4aaf-ae8a-2cb327780be8"
+                },
+                {
+                    "item_content": "Change Data Type (Convert Data)",
+                    "order_index": 6,
+                    "item_id": "339574dc-069e-4c4f-866e-7e4fd22b5752",
+                    "topic_id": "e8e26f9d-f420-4aaf-ae8a-2cb327780be8"
+                }
+            ]
+        },
+        {
+            "topic_name": "Data Analysis with Excel",
+            "order_index": 10,
+            "topic_id": "63e7717a-0080-407d-a6ff-b5a7b6313a8b",
+            "curriculum_id": "7381b0d5-6931-4504-86c8-d129a9d9b657",
+            "items": [
+                {
+                    "item_content": "What if Analysis in Excel?",
+                    "order_index": 1,
+                    "item_id": "902138bf-3de1-4dd7-a0b0-c726111ee6bb",
+                    "topic_id": "63e7717a-0080-407d-a6ff-b5a7b6313a8b"
+                },
+                {
+                    "item_content": "Goal Seek",
+                    "order_index": 2,
+                    "item_id": "65c4c31d-ea1f-4721-bbb8-a177f26b3d83",
+                    "topic_id": "63e7717a-0080-407d-a6ff-b5a7b6313a8b"
+                },
+                {
+                    "item_content": "Scenario Manager",
+                    "order_index": 3,
+                    "item_id": "9c4b14e1-765b-4df5-8405-4492ca98c1e1",
+                    "topic_id": "63e7717a-0080-407d-a6ff-b5a7b6313a8b"
+                },
+                {
+                    "item_content": "Data Table",
+                    "order_index": 4,
+                    "item_id": "4e18cd89-5ccc-42d9-850f-7d991c281a06",
+                    "topic_id": "63e7717a-0080-407d-a6ff-b5a7b6313a8b"
+                },
+                {
+                    "item_content": "Solver",
+                    "order_index": 5,
+                    "item_id": "9a95ce76-6149-4b7e-a407-43361a7a98c6",
+                    "topic_id": "63e7717a-0080-407d-a6ff-b5a7b6313a8b"
+                },
+                {
+                    "item_content": "Histogram",
+                    "order_index": 6,
+                    "item_id": "b9d821fc-59d0-46e8-b1da-35ad295bf410",
+                    "topic_id": "63e7717a-0080-407d-a6ff-b5a7b6313a8b"
+                },
+                {
+                    "item_content": "Correlation",
+                    "order_index": 7,
+                    "item_id": "1b0a29de-1b90-4d6c-a9be-3bbe2a495aec",
+                    "topic_id": "63e7717a-0080-407d-a6ff-b5a7b6313a8b"
+                },
+                {
+                    "item_content": "Rank and Percentile",
+                    "order_index": 8,
+                    "item_id": "153ae86a-72a3-42df-b3f2-5de0b5341288",
+                    "topic_id": "63e7717a-0080-407d-a6ff-b5a7b6313a8b"
+                },
+                {
+                    "item_content": "Descriptive Statistics (Regression in Excel)",
+                    "order_index": 9,
+                    "item_id": "9393ed52-3ce1-4a2f-a99c-09f6480b902b",
+                    "topic_id": "63e7717a-0080-407d-a6ff-b5a7b6313a8b"
+                },
+                {
+                    "item_content": "Forecast Sheet",
+                    "order_index": 10,
+                    "item_id": "9fff4645-6956-458b-9243-c96b548ff560",
+                    "topic_id": "63e7717a-0080-407d-a6ff-b5a7b6313a8b"
+                }
+            ]
+        },
+        {
+            "topic_name": "Data Visualization with Excel",
+            "order_index": 11,
+            "topic_id": "dce256ee-fe8a-4adc-b15b-2b46fd6c9fe4",
+            "curriculum_id": "7381b0d5-6931-4504-86c8-d129a9d9b657",
+            "items": [
+                {
+                    "item_content": "Pivot Table, Chart, Slicer",
+                    "order_index": 1,
+                    "item_id": "41871cae-c06c-4308-aed0-7d8f529b496a",
+                    "topic_id": "dce256ee-fe8a-4adc-b15b-2b46fd6c9fe4"
+                },
+                {
+                    "item_content": "Create and Modify Pivot Tables",
+                    "order_index": 2,
+                    "item_id": "ad01dc23-67ee-46e2-9695-00e4c7e1e6de",
+                    "topic_id": "dce256ee-fe8a-4adc-b15b-2b46fd6c9fe4"
+                },
+                {
+                    "item_content": "Use Pivot Tables to solve a variety of Business Problems",
+                    "order_index": 3,
+                    "item_id": "c0e99802-7d21-4938-af0a-301ec52b6022",
+                    "topic_id": "dce256ee-fe8a-4adc-b15b-2b46fd6c9fe4"
+                },
+                {
+                    "item_content": "Create an Interactive Dashboard with Pivot Charts and Slicers",
+                    "order_index": 4,
+                    "item_id": "1f36c3b8-498b-422e-802d-d5772f3e6b6b",
+                    "topic_id": "dce256ee-fe8a-4adc-b15b-2b46fd6c9fe4"
+                },
+                {
+                    "item_content": "Bring data to life using conditional formatting & custom number formatting",
+                    "order_index": 5,
+                    "item_id": "fa34e787-13d6-40d7-80ce-59d1b63a95a9",
+                    "topic_id": "dce256ee-fe8a-4adc-b15b-2b46fd6c9fe4"
+                },
+                {
+                    "item_content": "Mastering charts in Excel",
+                    "order_index": 6,
+                    "item_id": "5ea9355a-555c-44df-89db-866ebf0e59e0",
+                    "topic_id": "dce256ee-fe8a-4adc-b15b-2b46fd6c9fe4"
+                },
+                {
+                    "item_content": "Complete the dashboard with creative visualizations and dynamic charts (Interaction Dashboard)",
+                    "order_index": 7,
+                    "item_id": "85d44c23-3f2f-4ca6-8e5b-93dfc9c2b67d",
+                    "topic_id": "dce256ee-fe8a-4adc-b15b-2b46fd6c9fe4"
+                }
+            ]
+        },
+        {
+            "topic_name": "Data Warehouse (Ready Data to Analyze)",
+            "order_index": 12,
+            "topic_id": "0da1300e-fbdc-44d1-a09f-110fed49350e",
+            "curriculum_id": "7381b0d5-6931-4504-86c8-d129a9d9b657",
+            "items": [
+                {
+                    "item_content": "Data Warehouse Overview",
+                    "order_index": 1,
+                    "item_id": "71e2ac4a-3181-4713-afeb-22f1c3d92534",
+                    "topic_id": "0da1300e-fbdc-44d1-a09f-110fed49350e"
+                },
+                {
+                    "item_content": "Type of Data Warehouse",
+                    "order_index": 2,
+                    "item_id": "aef41adc-54d4-40c4-aba3-81745e56c443",
+                    "topic_id": "0da1300e-fbdc-44d1-a09f-110fed49350e"
+                },
+                {
+                    "item_content": "Data Warehouse architecture",
+                    "order_index": 3,
+                    "item_id": "b98efcd6-2cf5-4c03-a4fe-756e1ac44f67",
+                    "topic_id": "0da1300e-fbdc-44d1-a09f-110fed49350e"
+                },
+                {
+                    "item_content": "Data Warehouse Characteristics",
+                    "order_index": 4,
+                    "item_id": "5076d1cc-573e-4bdc-90e6-b8f4b2a3bea6",
+                    "topic_id": "0da1300e-fbdc-44d1-a09f-110fed49350e"
+                },
+                {
+                    "item_content": "Data Warehouse vs Database",
+                    "order_index": 5,
+                    "item_id": "36fb2eee-73b4-4202-be24-9fd58718cf6c",
+                    "topic_id": "0da1300e-fbdc-44d1-a09f-110fed49350e"
+                },
+                {
+                    "item_content": "ETL and ELT",
+                    "order_index": 6,
+                    "item_id": "8319afa6-c2d1-4780-aae5-4f8dcea90f8c",
+                    "topic_id": "0da1300e-fbdc-44d1-a09f-110fed49350e"
+                }
+            ]
+        },
+        {
+            "topic_name": "Power BI",
+            "order_index": 13,
+            "topic_id": "49a9292a-2c45-4030-899e-248fd4dbd06e",
+            "curriculum_id": "7381b0d5-6931-4504-86c8-d129a9d9b657",
+            "items": [
+                {
+                    "item_content": "Introduction to Power BI",
+                    "order_index": 1,
+                    "item_id": "538065b1-fd28-4656-9035-8017240d9827",
+                    "topic_id": "49a9292a-2c45-4030-899e-248fd4dbd06e"
+                },
+                {
+                    "item_content": "Understanding Power BI",
+                    "order_index": 2,
+                    "item_id": "b6680d10-0d18-4b1c-9a63-b4b96e4d1449",
+                    "topic_id": "49a9292a-2c45-4030-899e-248fd4dbd06e"
+                },
+                {
+                    "item_content": "Power BI Desktop and the Power BI service",
+                    "order_index": 3,
+                    "item_id": "847c5e15-91aa-4134-868f-08faee285fae",
+                    "topic_id": "49a9292a-2c45-4030-899e-248fd4dbd06e"
+                },
+                {
+                    "item_content": "Creating a Power BI account",
+                    "order_index": 4,
+                    "item_id": "7f2503be-3eee-4038-9ad9-cec3463cf4e4",
+                    "topic_id": "49a9292a-2c45-4030-899e-248fd4dbd06e"
+                }
+            ]
+        },
+        {
+            "topic_name": "Data Preparation and Modeling With Power BI",
+            "order_index": 14,
+            "topic_id": "a071cc2f-690b-484b-b8c9-2e0058fa81a5",
+            "curriculum_id": "7381b0d5-6931-4504-86c8-d129a9d9b657",
+            "items": [
+                {
+                    "item_content": "Creating reports and dashboards",
+                    "order_index": 1,
+                    "item_id": "d922ae76-bb0c-4bd9-83e6-e7596219a21f",
+                    "topic_id": "a071cc2f-690b-484b-b8c9-2e0058fa81a5"
+                },
+                {
+                    "item_content": "Advanced features (Drillthrough, Slicers, Filters, etc.)",
+                    "order_index": 2,
+                    "item_id": "d6326e79-a768-46ba-9bef-083227de09f6",
+                    "topic_id": "a071cc2f-690b-484b-b8c9-2e0058fa81a5"
+                },
+                {
+                    "item_content": "Sharing and publishing reports",
+                    "order_index": 3,
+                    "item_id": "20045e17-7267-46b7-a0b2-b609e4bb1b9f",
+                    "topic_id": "a071cc2f-690b-484b-b8c9-2e0058fa81a5"
+                },
+                {
+                    "item_content": "RLS (Role Level Security) in Power BI",
+                    "order_index": 4,
+                    "item_id": "667916c3-4703-42db-b466-175a3e3afc17",
+                    "topic_id": "a071cc2f-690b-484b-b8c9-2e0058fa81a5"
+                }
+            ]
+        },
+        {
+            "topic_name": "Data Visualization With Power BI",
+            "order_index": 15,
+            "topic_id": "054c48be-8d41-4ab5-bb0e-408553bdd83e",
+            "curriculum_id": "7381b0d5-6931-4504-86c8-d129a9d9b657",
+            "items": [
+                {
+                    "item_content": "Creating reports and dashboards",
+                    "order_index": 1,
+                    "item_id": "376dfdbf-ddd7-4fa7-a5ad-d72d29c57140",
+                    "topic_id": "054c48be-8d41-4ab5-bb0e-408553bdd83e"
+                },
+                {
+                    "item_content": "Using visualizations such as charts, tables, and maps",
+                    "order_index": 2,
+                    "item_id": "054ee30a-5432-4a44-be33-76083eac0651",
+                    "topic_id": "054c48be-8d41-4ab5-bb0e-408553bdd83e"
+                },
+                {
+                    "item_content": "Creating custom visuals and using marketplace visuals",
+                    "order_index": 3,
+                    "item_id": "1daaac55-52a7-4f7a-9a21-0d45476d4ae5",
+                    "topic_id": "054c48be-8d41-4ab5-bb0e-408553bdd83e"
+                },
+                {
+                    "item_content": "Designing and formatting reports",
+                    "order_index": 4,
+                    "item_id": "a47e11e5-6876-4fb4-ad3c-1292700b3244",
+                    "topic_id": "054c48be-8d41-4ab5-bb0e-408553bdd83e"
+                }
+            ]
+        },
+        {
+            "topic_name": "Advanced Features of Power BI",
+            "order_index": 16,
+            "topic_id": "25b4979e-6def-416a-abc4-79470168de1b",
+            "curriculum_id": "7381b0d5-6931-4504-86c8-d129a9d9b657",
+            "items": [
+                {
+                    "item_content": "Creating and managing data hierarchies",
+                    "order_index": 1,
+                    "item_id": "42ed9e64-0d19-4516-a578-e1f3d8bfd5a4",
+                    "topic_id": "25b4979e-6def-416a-abc4-79470168de1b"
+                },
+                {
+                    "item_content": "Using drillthrough and drilldown features",
+                    "order_index": 2,
+                    "item_id": "fc6e9489-377f-41eb-9b87-c665eecf346d",
+                    "topic_id": "25b4979e-6def-416a-abc4-79470168de1b"
+                },
+                {
+                    "item_content": "Creating dynamic reports with slicers, filters, and bookmarks",
+                    "order_index": 3,
+                    "item_id": "abeeb06e-11fa-4c78-865a-09e6b630a183",
+                    "topic_id": "25b4979e-6def-416a-abc4-79470168de1b"
+                },
+                {
+                    "item_content": "Using Power BI mobile app",
+                    "order_index": 4,
+                    "item_id": "da4da1b1-ceff-40c9-9a86-86c07d04c2e8",
+                    "topic_id": "25b4979e-6def-416a-abc4-79470168de1b"
+                },
+                {
+                    "item_content": "Sharing and publishing reports to Power BI service and dashboards",
+                    "order_index": 5,
+                    "item_id": "14bccb33-c579-4ae2-bf29-5c2a93a9049c",
+                    "topic_id": "25b4979e-6def-416a-abc4-79470168de1b"
+                },
+                {
+                    "item_content": "Workspace in Power BI",
+                    "order_index": 6,
+                    "item_id": "2509df02-d72e-4ace-8a96-7f979c25fcf1",
+                    "topic_id": "25b4979e-6def-416a-abc4-79470168de1b"
+                },
+                {
+                    "item_content": "Role User in Power BI workspace",
+                    "order_index": 7,
+                    "item_id": "9ee3b048-187a-46a7-a502-f2efd77b67e7",
+                    "topic_id": "25b4979e-6def-416a-abc4-79470168de1b"
+                },
+                {
+                    "item_content": "RLS (Role Level Security) in Power BI and why do we need it?",
+                    "order_index": 8,
+                    "item_id": "d4cda31c-e150-43d6-ae48-2d340f962bba",
+                    "topic_id": "25b4979e-6def-416a-abc4-79470168de1b"
+                },
+                {
+                    "item_content": "Sharing and collaboration (Workspace)",
+                    "order_index": 9,
+                    "item_id": "928e41e4-987f-478b-82e9-94c77479e887",
+                    "topic_id": "25b4979e-6def-416a-abc4-79470168de1b"
+                },
+                {
+                    "item_content": "Using the Power BI service to collaborate with others",
+                    "order_index": 10,
+                    "item_id": "a807373b-ade1-4e06-8b56-26413be9094f",
+                    "topic_id": "25b4979e-6def-416a-abc4-79470168de1b"
+                },
+                {
+                    "item_content": "Setting up security and permissions for reports and data",
+                    "order_index": 11,
+                    "item_id": "c4ec1403-443f-460b-8511-adf397f91111",
+                    "topic_id": "25b4979e-6def-416a-abc4-79470168de1b"
+                }
+            ]
+        },
+        {
+            "topic_name": "Python II: Working With Libraries",
+            "order_index": 17,
+            "topic_id": "0fbd1d3d-cb68-4232-af2a-3c8f0086bb52",
+            "curriculum_id": "7381b0d5-6931-4504-86c8-d129a9d9b657",
+            "items": [
+                {
+                    "item_content": "Dataframe of Pandas with Python",
+                    "order_index": 1,
+                    "item_id": "5f61cca0-1a01-43e5-ad5f-ca5a0b3e1319",
+                    "topic_id": "0fbd1d3d-cb68-4232-af2a-3c8f0086bb52"
+                },
+                {
+                    "item_content": "Series of Pandas with Python",
+                    "order_index": 2,
+                    "item_id": "d6bda8d9-02d9-4df5-948c-0321c25f3ad7",
+                    "topic_id": "0fbd1d3d-cb68-4232-af2a-3c8f0086bb52"
+                },
+                {
+                    "item_content": "Access Data from Dataframe of Pandas",
+                    "order_index": 3,
+                    "item_id": "79a81783-91cc-4ce6-95c9-19c65e3324d6",
+                    "topic_id": "0fbd1d3d-cb68-4232-af2a-3c8f0086bb52"
+                },
+                {
+                    "item_content": "Data Processing with Pandas (Load Data into Pandas and Clean)",
+                    "order_index": 4,
+                    "item_id": "b278e50a-5969-444b-8abc-b244e8119705",
+                    "topic_id": "0fbd1d3d-cb68-4232-af2a-3c8f0086bb52"
+                },
+                {
+                    "item_content": "Dynamic Array of Numpy with Python",
+                    "order_index": 5,
+                    "item_id": "fc71c043-f87b-436b-8a6f-dce23a746c10",
+                    "topic_id": "0fbd1d3d-cb68-4232-af2a-3c8f0086bb52"
+                },
+                {
+                    "item_content": "Create Chart, Plots Using matplotlib with Python",
+                    "order_index": 6,
+                    "item_id": "163ca1fa-5fba-4f93-87e5-0ad73a617174",
+                    "topic_id": "0fbd1d3d-cb68-4232-af2a-3c8f0086bb52"
+                }
+            ]
+        },
+        {
+            "topic_name": "Exploratory Data Analysis",
+            "order_index": 18,
+            "topic_id": "f2ab7cb9-d190-4096-bced-dcb0f8bb02f2",
+            "curriculum_id": "7381b0d5-6931-4504-86c8-d129a9d9b657",
+            "items": [
+                {
+                    "item_content": "What is Exploratory Data Analysis (EDA)?",
+                    "order_index": 1,
+                    "item_id": "1e679cfe-0242-4af5-8e63-2b2dda8243ed",
+                    "topic_id": "f2ab7cb9-d190-4096-bced-dcb0f8bb02f2"
+                },
+                {
+                    "item_content": "Why is it important?",
+                    "order_index": 2,
+                    "item_id": "71ca3ba5-4d28-4535-944b-bdf7466a0143",
+                    "topic_id": "f2ab7cb9-d190-4096-bced-dcb0f8bb02f2"
+                },
+                {
+                    "item_content": "Type of EDA",
+                    "order_index": 3,
+                    "item_id": "4a634b6d-de21-4e0e-8796-353def0a9413",
+                    "topic_id": "f2ab7cb9-d190-4096-bced-dcb0f8bb02f2"
+                },
+                {
+                    "item_content": "What is cross validation?",
+                    "order_index": 4,
+                    "item_id": "d52b7225-4643-4b96-a9dc-69639db37e53",
+                    "topic_id": "f2ab7cb9-d190-4096-bced-dcb0f8bb02f2"
+                }
+            ]
+        },
+        {
+            "topic_name": "Feature Engineering (Data Processing)",
+            "order_index": 19,
+            "topic_id": "590a8fba-3ab4-4232-bf72-504b03bdda01",
+            "curriculum_id": "7381b0d5-6931-4504-86c8-d129a9d9b657",
+            "items": [
+                {
+                    "item_content": "Feature Selection",
+                    "order_index": 1,
+                    "item_id": "0ad253da-a3b1-4257-83bf-876119254730",
+                    "topic_id": "590a8fba-3ab4-4232-bf72-504b03bdda01"
+                },
+                {
+                    "item_content": "Handling missing values",
+                    "order_index": 2,
+                    "item_id": "bce4367a-cf55-4363-8845-eeeeb0a53d56",
+                    "topic_id": "590a8fba-3ab4-4232-bf72-504b03bdda01"
+                },
+                {
+                    "item_content": "Handling imbalanced data",
+                    "order_index": 3,
+                    "item_id": "aaf0f500-56a7-4f33-866a-dfa2e4e25ff7",
+                    "topic_id": "590a8fba-3ab4-4232-bf72-504b03bdda01"
+                },
+                {
+                    "item_content": "Handling outliers",
+                    "order_index": 4,
+                    "item_id": "903b0f78-5b2f-4e52-bb6c-d39abba3961a",
+                    "topic_id": "590a8fba-3ab4-4232-bf72-504b03bdda01"
+                },
+                {
+                    "item_content": "Binning",
+                    "order_index": 5,
+                    "item_id": "e6f3de73-e7ae-4f77-87fc-80a320a806a7",
+                    "topic_id": "590a8fba-3ab4-4232-bf72-504b03bdda01"
+                },
+                {
+                    "item_content": "Encoding",
+                    "order_index": 6,
+                    "item_id": "6c908729-544a-4f3a-ba0c-7d70aea83456",
+                    "topic_id": "590a8fba-3ab4-4232-bf72-504b03bdda01"
+                },
+                {
+                    "item_content": "Feature Scaling",
+                    "order_index": 7,
+                    "item_id": "6e4ec6fd-d9f0-4781-ae95-c7e8ca542fef",
+                    "topic_id": "590a8fba-3ab4-4232-bf72-504b03bdda01"
+                }
+            ]
+        },
+        {
+            "topic_name": "Predictive Modeling",
+            "order_index": 20,
+            "topic_id": "58a757a5-80a8-4d7f-bfee-765016483596",
+            "curriculum_id": "7381b0d5-6931-4504-86c8-d129a9d9b657",
+            "items": [
+                {
+                    "item_content": "Machine learning Algorithms",
+                    "order_index": 1,
+                    "item_id": "267d0f44-1dd0-49f3-b4b5-198302ba66a1",
+                    "topic_id": "58a757a5-80a8-4d7f-bfee-765016483596"
+                },
+                {
+                    "item_content": "Type of machine learning",
+                    "order_index": 2,
+                    "item_id": "f9f67cc4-0663-467b-a441-46c0ae904030",
+                    "topic_id": "58a757a5-80a8-4d7f-bfee-765016483596"
+                },
+                {
+                    "item_content": "Regression models",
+                    "order_index": 3,
+                    "item_id": "62e33e5c-c574-412a-94c8-87c4a1376f58",
+                    "topic_id": "58a757a5-80a8-4d7f-bfee-765016483596"
+                },
+                {
+                    "item_content": "Decision Tree",
+                    "order_index": 4,
+                    "item_id": "5353b06a-349f-4c58-a3bc-dc03df6e4770",
+                    "topic_id": "58a757a5-80a8-4d7f-bfee-765016483596"
+                }
+            ]
+        },
+        {
+            "topic_name": "Time Series Forecasting",
+            "order_index": 21,
+            "topic_id": "307cf685-49fa-4e95-ba10-d9b3722846b4",
+            "curriculum_id": "7381b0d5-6931-4504-86c8-d129a9d9b657",
+            "items": [
+                {
+                    "item_content": "Introduction to time-series",
+                    "order_index": 1,
+                    "item_id": "20f22a61-457d-4eda-81ac-fb41dbded72a",
+                    "topic_id": "307cf685-49fa-4e95-ba10-d9b3722846b4"
+                },
+                {
+                    "item_content": "Correlation Forecasting",
+                    "order_index": 2,
+                    "item_id": "7ab7ae1f-a93a-4dac-9650-00fd462560a0",
+                    "topic_id": "307cf685-49fa-4e95-ba10-d9b3722846b4"
+                },
+                {
+                    "item_content": "Autoregressive models",
+                    "order_index": 3,
+                    "item_id": "a86ac21e-b23f-445d-9f87-46bb69278a3b",
+                    "topic_id": "307cf685-49fa-4e95-ba10-d9b3722846b4"
+                }
+            ]
+        },
+        {
+            "topic_name": "Data Processing with PySpark",
+            "order_index": 22,
+            "topic_id": "2eec0c2a-7f97-4b1b-87ba-425befa0a3c2",
+            "curriculum_id": "7381b0d5-6931-4504-86c8-d129a9d9b657",
+            "items": [
+                {
+                    "item_content": "Introduction to time-series",
+                    "order_index": 1,
+                    "item_id": "b0936f2b-0e11-480a-8237-834a175783be",
+                    "topic_id": "2eec0c2a-7f97-4b1b-87ba-425befa0a3c2"
+                },
+                {
+                    "item_content": "Correlation Forecasting",
+                    "order_index": 2,
+                    "item_id": "0d18c8c1-ef23-4fa3-b394-8ac62d0bb862",
+                    "topic_id": "2eec0c2a-7f97-4b1b-87ba-425befa0a3c2"
+                },
+                {
+                    "item_content": "Installing PySpark",
+                    "order_index": 3,
+                    "item_id": "6acb3418-33d0-4e3b-be3e-4cfaeaea77e4",
+                    "topic_id": "2eec0c2a-7f97-4b1b-87ba-425befa0a3c2"
+                },
+                {
+                    "item_content": "Spark Structure API DataFrame",
+                    "order_index": 4,
+                    "item_id": "810cc73b-093c-4052-9024-299c10ba66f0",
+                    "topic_id": "2eec0c2a-7f97-4b1b-87ba-425befa0a3c2"
+                },
+                {
+                    "item_content": "RDD",
+                    "order_index": 5,
+                    "item_id": "79507a88-3d32-433a-9cdc-377e5312665d",
+                    "topic_id": "2eec0c2a-7f97-4b1b-87ba-425befa0a3c2"
+                },
+                {
+                    "item_content": "Spark Architecture and Components",
+                    "order_index": 6,
+                    "item_id": "a8ce16e2-c535-42f6-b0c4-acea73cf4dac",
+                    "topic_id": "2eec0c2a-7f97-4b1b-87ba-425befa0a3c2"
+                },
+                {
+                    "item_content": "Tuple",
+                    "order_index": 7,
+                    "item_id": "d783ef14-e790-47f4-8e64-f4c9a863ab62",
+                    "topic_id": "2eec0c2a-7f97-4b1b-87ba-425befa0a3c2"
+                },
+                {
+                    "item_content": "Pair RDD",
+                    "order_index": 8,
+                    "item_id": "f48e37e4-12f7-4b76-81d4-02fdc47c7025",
+                    "topic_id": "2eec0c2a-7f97-4b1b-87ba-425befa0a3c2"
+                },
+                {
+                    "item_content": "FlatMaps and Filters",
+                    "order_index": 9,
+                    "item_id": "a671479e-70a4-42b1-a0f0-8def754b7cee",
+                    "topic_id": "2eec0c2a-7f97-4b1b-87ba-425befa0a3c2"
+                },
+                {
+                    "item_content": "Sorts and Coalesce",
+                    "order_index": 10,
+                    "item_id": "0d8925f2-0ce2-49ab-be37-1884ae6b8667",
+                    "topic_id": "2eec0c2a-7f97-4b1b-87ba-425befa0a3c2"
+                },
+                {
+                    "item_content": "Joins",
+                    "order_index": 11,
+                    "item_id": "c1ec543f-3726-4eb1-9184-200e160b5c66",
+                    "topic_id": "2eec0c2a-7f97-4b1b-87ba-425befa0a3c2"
+                },
+                {
+                    "item_content": "Spark SQL",
+                    "order_index": 12,
+                    "item_id": "0a4e11cf-5c1c-4207-92d7-000d4c33a38c",
+                    "topic_id": "2eec0c2a-7f97-4b1b-87ba-425befa0a3c2"
+                },
+                {
+                    "item_content": "Datasets",
+                    "order_index": 13,
+                    "item_id": "b8bd0e46-01c0-4fa6-a1f2-eeda79f01f4d",
+                    "topic_id": "2eec0c2a-7f97-4b1b-87ba-425befa0a3c2"
+                },
+                {
+                    "item_content": "DataFrames API",
+                    "order_index": 14,
+                    "item_id": "907d982e-720f-4a6b-a79e-eefca2280f51",
+                    "topic_id": "2eec0c2a-7f97-4b1b-87ba-425befa0a3c2"
+                },
+                {
+                    "item_content": "Pivot Tables",
+                    "order_index": 15,
+                    "item_id": "26bdf965-52b3-4568-8eac-276d73e3d1f3",
+                    "topic_id": "2eec0c2a-7f97-4b1b-87ba-425befa0a3c2"
+                },
+                {
+                    "item_content": "User Defined Function",
+                    "order_index": 16,
+                    "item_id": "c61ff73d-4b76-491d-931e-854b2403d480",
+                    "topic_id": "2eec0c2a-7f97-4b1b-87ba-425befa0a3c2"
+                },
+                {
+                    "item_content": "HashAggregation",
+                    "order_index": 17,
+                    "item_id": "8e04dc79-6473-43b5-836f-fc814ad738d4",
+                    "topic_id": "2eec0c2a-7f97-4b1b-87ba-425befa0a3c2"
+                },
+                {
+                    "item_content": "SparkML for Machine Learning",
+                    "order_index": 18,
+                    "item_id": "ff735816-306e-4d9b-a486-875272263ce7",
+                    "topic_id": "2eec0c2a-7f97-4b1b-87ba-425befa0a3c2"
+                },
+                {
+                    "item_content": "Linear Regression Model",
+                    "order_index": 19,
+                    "item_id": "719429f4-6c46-4bba-9dfb-1e923a5cfc84",
+                    "topic_id": "2eec0c2a-7f97-4b1b-87ba-425befa0a3c2"
+                },
+                {
+                    "item_content": "Training Data",
+                    "order_index": 20,
+                    "item_id": "46b5001a-fd28-4cee-ae82-a5a4ebf4f998",
+                    "topic_id": "2eec0c2a-7f97-4b1b-87ba-425befa0a3c2"
+                },
+                {
+                    "item_content": "Model Fitting Parameters",
+                    "order_index": 21,
+                    "item_id": "2e55e38d-c457-452e-82bd-de948748d1fc",
+                    "topic_id": "2eec0c2a-7f97-4b1b-87ba-425befa0a3c2"
+                },
+                {
+                    "item_content": "Feature Selection",
+                    "order_index": 22,
+                    "item_id": "1c844a14-9ac8-4304-a1b7-730a652dc51b",
+                    "topic_id": "2eec0c2a-7f97-4b1b-87ba-425befa0a3c2"
+                },
+                {
+                    "item_content": "Non-Numeric Data",
+                    "order_index": 23,
+                    "item_id": "e4e66799-5294-42c3-ba12-a68500e4e697",
+                    "topic_id": "2eec0c2a-7f97-4b1b-87ba-425befa0a3c2"
+                },
+                {
+                    "item_content": "Pipelines",
+                    "order_index": 24,
+                    "item_id": "b33fe133-23a1-4990-b878-1eafefb1a593",
+                    "topic_id": "2eec0c2a-7f97-4b1b-87ba-425befa0a3c2"
+                },
+                {
+                    "item_content": "K Means Clustering",
+                    "order_index": 25,
+                    "item_id": "336a0787-7295-4df1-b68f-ff982027c1b8",
+                    "topic_id": "2eec0c2a-7f97-4b1b-87ba-425befa0a3c2"
+                },
+                {
+                    "item_content": "Spark Streaming and Structured Streaming with Kafka",
+                    "order_index": 26,
+                    "item_id": "ecfdb753-ec2a-4cba-9f5a-3e5bce3db79b",
+                    "topic_id": "2eec0c2a-7f97-4b1b-87ba-425befa0a3c2"
+                }
+            ]
+        },
+        {
+            "topic_name": "Business Problem Solving, Insights and Storytelling",
+            "order_index": 23,
+            "topic_id": "fd9ac1e8-271d-4737-af8a-4302e47e01eb",
+            "curriculum_id": "7381b0d5-6931-4504-86c8-d129a9d9b657",
+            "items": [
+                {
+                    "item_content": "Business domains",
+                    "order_index": 1,
+                    "item_id": "84338199-7596-48cb-84b3-70178a0662b6",
+                    "topic_id": "fd9ac1e8-271d-4737-af8a-4302e47e01eb"
+                },
+                {
+                    "item_content": "Understanding the business problem and formulating hypotheses",
+                    "order_index": 2,
+                    "item_id": "43d138a9-3299-425e-94fd-ec64ce578db7",
+                    "topic_id": "fd9ac1e8-271d-4737-af8a-4302e47e01eb"
+                },
+                {
+                    "item_content": "Exploratory data analysis",
+                    "order_index": 3,
+                    "item_id": "a8ce27a1-303d-4917-98d6-48527f677806",
+                    "topic_id": "fd9ac1e8-271d-4737-af8a-4302e47e01eb"
+                },
+                {
+                    "item_content": "Data storytelling",
+                    "order_index": 4,
+                    "item_id": "41a4c529-4ad6-4956-bd2f-2437163ea6cb",
+                    "topic_id": "fd9ac1e8-271d-4737-af8a-4302e47e01eb"
+                },
+                {
+                    "item_content": "Project on deriving business insights and storytelling",
+                    "order_index": 5,
+                    "item_id": "6748d037-421f-4f39-a73f-5643b99ca013",
+                    "topic_id": "fd9ac1e8-271d-4737-af8a-4302e47e01eb"
+                }
+            ]
+        },
+        {
+            "topic_name": "Business Case Studies",
+            "order_index": 24,
+            "topic_id": "d2a7dfcc-129e-48c4-be73-5717a10ee906",
+            "curriculum_id": "7381b0d5-6931-4504-86c8-d129a9d9b657",
+            "items": [
+                {
+                    "item_content": "Real world Business Analytics",
+                    "order_index": 1,
+                    "item_id": "c754f959-7404-400e-bbab-976919268803",
+                    "topic_id": "d2a7dfcc-129e-48c4-be73-5717a10ee906"
+                },
+                {
+                    "item_content": "Focus on Real world problem",
+                    "order_index": 2,
+                    "item_id": "6b614af9-e5e8-447e-988d-0b8d0b249041",
+                    "topic_id": "d2a7dfcc-129e-48c4-be73-5717a10ee906"
+                },
+                {
+                    "item_content": "Business Required",
+                    "order_index": 3,
+                    "item_id": "5d8d4bbf-99bc-4c4d-b61d-8af0adb44661",
+                    "topic_id": "d2a7dfcc-129e-48c4-be73-5717a10ee906"
+                }
+            ]
+        }
+    ]
+}
